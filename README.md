@@ -22,5 +22,3 @@ Pasos:
 Cada paso fue desarrollado en un entregable.
 
 Las tablas de ventas proporcionadas son: 'DIM_CALENDAR (2).xlsx', 'DIM_CATEGORY (2).csv', 'DIM_PRODUCT (1).xlsx', 'DIM_SEGMENT (1).xlsx', 'FACT_SALES (1).csv'.
-
-El archivo 'Entregable Final.pptx' es una presentación en donde se recopilan todos los pasos seguidos.
