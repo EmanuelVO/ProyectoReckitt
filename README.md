@@ -8,7 +8,7 @@ Relevancia del Análisis:
 - Incluye visualizaciones de los datos para entender mejor su distribución y las relaciones entre diferentes variables
 - Resume los hallazgos clave y proporciona recomendaciones estratégicas
 
-Herramientas Utilizadas: Python, Orange, SQL y PowerBI
+Herramientas Utilizadas: Python(Jupyter Notebook), Orange, SQL y PowerBI
 
 Pasos:
 1. Carga y Limpieza de Datos: los datos fueron cargados en Pandas desde archivos CSV y Excel. Se realizó una limpieza exhaustiva para manejar valores nulos, eliminar duplicados y corregir inconsistencias en los datos.
