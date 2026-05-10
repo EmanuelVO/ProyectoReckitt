@@ -19,4 +19,6 @@ Pasos:
 6. Predicción de Ventas con Machine Learning: se utilizó un modelo de series de tiempo ARIMA para predecir las ventas futuras.
 7. Conclusiones y Recomendaciones
 
-Cada paso fue desarrollado en un entregable
+Cada paso fue desarrollado en un entregable. 
+Las tablas de ventas proporcionadas son: 'DIM_CALENDAR (2).xlsx', 'DIM_CATEGORY (2).csv', 'DIM_PRODUCT (1).xlsx', 'DIM_SEGMENT (1).xlsx', 'FACT_SALES (1).csv'
+El archivo 'Entregable Final.pptx' es una presentación en donde se recopilan todos los pasos seguidos.
