@@ -15,11 +15,17 @@ Pasos:
 
 2. Análisis Exploratorio de Datos (EDA) y Visualizaciones
 <img width="1180" height="575" alt="image" src="https://github.com/user-attachments/assets/b20fb844-98be-4d11-b8a0-6645ed313bd6" />
+
 <img width="1718" height="769" alt="image" src="https://github.com/user-attachments/assets/f9cfacc0-3287-48ba-9741-254c9cc8c308" />
+
 <img width="1720" height="1035" alt="image" src="https://github.com/user-attachments/assets/6bea5ac9-5333-41ea-80e8-13c299c4609a" />
+
 <img width="1028" height="665" alt="image" src="https://github.com/user-attachments/assets/b38a88cf-6e1e-4764-90f8-a8c6bc1562b2" />
+
 <img width="1206" height="707" alt="image" src="https://github.com/user-attachments/assets/dfe6ee54-75fe-43c5-9895-915caa96915d" />
+
 <img width="1424" height="707" alt="image" src="https://github.com/user-attachments/assets/f786a35d-30ad-44f1-b975-ecc1cd321ada" />
+
 <img width="1352" height="911" alt="image" src="https://github.com/user-attachments/assets/2df2a938-67f7-45c4-8264-aed2b612226d" />
 
 3. Aplicación de Clustering con K-Means: se aplicó el algoritmo K-Means para segmentar los productos o regiones en función de características clave como ventas totales, categorías y regiones.
@@ -29,7 +35,9 @@ Pasos:
 
 5. Creación de un Dashboard en PowerBI
 <img width="1988" height="1125" alt="image" src="https://github.com/user-attachments/assets/5777e08a-4015-4e8d-af0e-e6e19904edf7" />
+
 <img width="1998" height="1125" alt="image" src="https://github.com/user-attachments/assets/93d3d25b-2304-4bba-a480-0f9f4e0e59d8" />
+
 <img width="1994" height="1125" alt="image" src="https://github.com/user-attachments/assets/cedc02a4-0f0b-410d-85d4-df46e873b476" />
 
 6. Predicción de Ventas con Machine Learning: se utilizó un modelo de series de tiempo ARIMA para predecir las ventas futuras.
