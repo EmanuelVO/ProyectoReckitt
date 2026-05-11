@@ -1,5 +1,9 @@
 # ProyectoReckitt
 
+Cada paso fue desarrollado en un entregable.
+
+Las tablas de ventas proporcionadas son: 'DIM_CALENDAR (2).xlsx', 'DIM_CATEGORY (2).csv', 'DIM_PRODUCT (1).xlsx', 'DIM_SEGMENT (1).xlsx', 'FACT_SALES (1).csv'.
+
 Relevancia del Análisis: 
 - Revela tendencias y patrones en los datos
 - Identifica los principales productos que están ganando o perdiendo margen de mercado
@@ -47,7 +51,3 @@ Pasos:
 - En cuanto a marcas, se identifica una estrategia dual: CLORALEX debe mantenerse como motor de volumen y penetración de mercado, mientras que BLANCATEL puede posicionarse como una opción más rentable o premium, permitiendo equilibrar crecimiento y margen. 
 - La evidencia de estacionalidad (picos en enero y caídas en julio) permite optimizar inventarios, producción y campañas, anticipando la demanda y reforzando ventas en periodos bajos.
 - Finalmente, el liderazgo consistente de ciertas regiones sugiere la oportunidad de replicar prácticas exitosas en otras zonas, impulsando un crecimiento más equilibrado.
-
-Cada paso fue desarrollado en un entregable.
-
-Las tablas de ventas proporcionadas son: 'DIM_CALENDAR (2).xlsx', 'DIM_CATEGORY (2).csv', 'DIM_PRODUCT (1).xlsx', 'DIM_SEGMENT (1).xlsx', 'FACT_SALES (1).csv'.
